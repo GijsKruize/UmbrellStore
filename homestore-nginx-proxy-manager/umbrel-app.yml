@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: nginx-proxy-manager
+id: homestore-nginx-proxy-manager
 name: Nginx Proxy Manager
 tagline: Replace this tagline with your app's tagline
 icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/nginx-proxy-manager.png
